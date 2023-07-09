@@ -1,10 +1,10 @@
 # Crud-app
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-API https://jsonplaceholder.typicode.com/
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).\
+API https://jsonplaceholder.typicode.com/ 
 
-React version 18.2.0
-React router dom version 6.14.1
+React version 18.2.0\
+React router dom version 6.14.1\
 Bootstrap version 4.6
 
 ## Available Scripts
@@ -12,7 +12,7 @@ Bootstrap version 4.6
 In the project directory, you can run:
 ### `npm install`
 
-To install the dependencies.\
+To install the dependencies.
 
 ### `npm start`
 
